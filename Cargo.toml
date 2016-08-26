@@ -1,0 +1,6 @@
+[package]
+name = "vtun-rs"
+version = "0.1.0"
+authors = ["Jérôme Arzel <jerome.arzel@netcat.io>"]
+
+[dependencies]
