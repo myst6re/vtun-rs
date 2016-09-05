@@ -4,3 +4,5 @@ version = "0.1.0"
 authors = ["Jérôme Arzel <jerome.arzel@netcat.io>"]
 
 [dependencies]
+clap = "2.10.4"
+nix = "0.6.0"
